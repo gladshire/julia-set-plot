@@ -1,1 +1,1 @@
-Simple python tool for generating Julia plot png images
+Simple python toy for multithreaded generation of Julia plot png images
